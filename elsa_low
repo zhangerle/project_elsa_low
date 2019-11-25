@@ -1,1 +1,3 @@
-20191125 测试创建文件在github中
+2019.11.25  项目Elsa低配版，保存到github中。  
+项目代码在Widows (40.73.2.13虚拟机中)  环境Apache,python3,Azure-sqlServer数据库
+实现内容：获取图片，保存到虚拟机共享磁盘，记录数据保存到sqlserver数据库中，对接同机APP服务。
